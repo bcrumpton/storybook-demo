@@ -1,0 +1,20 @@
+input {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: .25rem .5rem;
+}
+
+.small {
+  height: 1rem;
+  font-size: 0.875rem;
+}
+
+.medium {
+  height: 1.5rem;
+  font-size: 1rem;
+}
+
+.large {
+  height: 2rem;
+  font-size: 1.5rem;
+}

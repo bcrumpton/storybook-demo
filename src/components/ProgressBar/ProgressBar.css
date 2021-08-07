@@ -1,0 +1,14 @@
+.progress-container {
+  width: 100%;
+  display: block;
+  height: 20px;
+  background: #ddd;
+  border-radius: 20px;
+}
+
+.progress-filler {
+  background: purple;
+  height: 100%;
+  border-radius: 20px;
+  display: inline-block;
+}
